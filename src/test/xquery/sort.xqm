@@ -37,6 +37,7 @@ declare
 	%test:assertEquals(
 	    "1.0.0-alpha", "1.0.0-alpha.1", "1.0.0-alpha.beta",
 	    "1.0.0-beta", "1.0.0-beta.2", "1.0.0-beta.11",
+	    "this should trigger a test failure - if mvn test is working",
 	    "1.0.0-rc.1", "1.0.0", "2.0.0", "2.1.0", "2.1.1")
 function sts:sort() {
 	let $versions :=
