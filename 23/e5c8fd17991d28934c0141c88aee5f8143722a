@@ -1,0 +1,23 @@
+package.json
+  s_7b9e4ef00bedfa::t_63b5ccc8f94b61 27
+package-lock.json
+  s_7b9e4ef00bedfa::t_4c73154ed09ca7 3,9,20,557-559,561,563,572-588,834-836,838,841,848-849,1204-1206,1208,1210,3438-3440,3442,3444-3446,3449,3466-3468,3470,3472-3474,3477,6872-6889
+.releaserc
+  s_7b9e4ef00bedfa::t_7d28d1c2596be3 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "23e5c8fd17991d28934c0141c88aee5f8143722a",
+  "prompts": {},
+  "sessions": {
+    "s_7b9e4ef00bedfa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65123127-91da-457c-8bf8-4a415390b508",
+        "model": "default"
+      },
+      "human_author": null
+    }
+  }
+}
