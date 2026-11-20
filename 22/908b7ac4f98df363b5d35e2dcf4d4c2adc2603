@@ -1,0 +1,21 @@
+.github/workflows/build.yml
+  s_7b9e4ef00bedfa::t_d57d8a11ce5547 18-19,31,34
+.github/workflows/commitlint.yml
+  s_7b9e4ef00bedfa::t_240eb2f9d4d6d0 15,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "22908b7ac4f98df363b5d35e2dcf4d4c2adc2603",
+  "prompts": {},
+  "sessions": {
+    "s_7b9e4ef00bedfa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65123127-91da-457c-8bf8-4a415390b508",
+        "model": "default"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
