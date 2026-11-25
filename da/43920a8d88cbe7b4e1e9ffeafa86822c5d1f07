@@ -1,0 +1,26 @@
+package.json
+  s_7b9e4ef00bedfa::t_63b5ccc8f94b61 27
+package-lock.json
+  s_7b9e4ef00bedfa::t_4c73154ed09ca7 3,9,20,557-559,561,563,572-588,834-836,838,841,848-849,1204-1206,1208,1210,3439-3441,3443,3445-3447,3450,3467-3469,3471,3473-3475,3478,6884-6901
+  s_7b9e4ef00bedfa::t_a9dbe72f84c9b2 134,135,828,829,1127-1128,1130-1131,1136,1137,3135-3136,3138-3139,4621,4622
+.releaserc
+  s_7b9e4ef00bedfa::t_7d28d1c2596be3 2
+.github/workflows/commitlint.yml
+  s_7b9e4ef00bedfa::t_240eb2f9d4d6d0 15,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "da43920a8d88cbe7b4e1e9ffeafa86822c5d1f07",
+  "prompts": {},
+  "sessions": {
+    "s_7b9e4ef00bedfa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65123127-91da-457c-8bf8-4a415390b508",
+        "model": "default"
+      },
+      "human_author": null
+    }
+  }
+}
