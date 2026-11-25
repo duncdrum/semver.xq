@@ -1,0 +1,19 @@
+.github/workflows/build.yml
+  s_16f463e99152e1::t_04105c392e99e6 18-19,31,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d2e9aa6816e3286a6717cec86ae4030e1d10155",
+  "prompts": {},
+  "sessions": {
+    "s_16f463e99152e1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "s_16f463e99152e1",
+        "model": "unknown"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
