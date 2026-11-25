@@ -1,0 +1,20 @@
+.github/dependabot.yml
+  s_7b9e4ef00bedfa::t_c8cceb95709243 33-34
+  s_7b9e4ef00bedfa::t_8821b010852d39 7,11,14-32,39-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3594075668fc99d513a2527035ffbd5601fb3024",
+  "prompts": {},
+  "sessions": {
+    "s_7b9e4ef00bedfa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "65123127-91da-457c-8bf8-4a415390b508",
+        "model": "default"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
