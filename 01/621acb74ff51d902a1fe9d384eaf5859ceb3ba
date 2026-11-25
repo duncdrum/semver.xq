@@ -1,0 +1,23 @@
+package-lock.json
+  s_db54a855cf885b::t_6416edce3f69d0 17,663-665
+package.json
+  s_db54a855cf885b::t_0c6a9c2ec22692 24
+.github/workflows/build.yml
+  s_db54a855cf885b::t_075a5d691d9a34 18-19,31,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "01621acb74ff51d902a1fe9d384eaf5859ceb3ba",
+  "prompts": {},
+  "sessions": {
+    "s_db54a855cf885b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e7d1b88b-cba6-483e-843d-9f1f8ea5d176",
+        "model": "default"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
